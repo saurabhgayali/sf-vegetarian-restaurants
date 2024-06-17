@@ -4,7 +4,7 @@ Vegetarian-Friendly Restaurants in San Francisco
 Sandwiches
 ----------
 
-* Jay's Cheesesteaks (many seitan flavors)
+* Jay's Cheesesteaks (many seitan flavors) [Website](http://orderjayscheesesteak.com/)
 * Ike's Place (tons of amazing veggie sandwiches)
 * Toaster Oven (Potbelly's clone)
 * Freddie's Sandwiches (in north beach if you don't want to go all the way to, or wait in the line at, Ike's; get the jalapeno spread)
